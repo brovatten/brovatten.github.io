@@ -12,11 +12,11 @@ profile:
     <p>Enge, Zürich</p>
 
 news: false # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I love learning about machine learning in different disciplines. I am currently working at [Bank for International Settlements](https://www.bis.org/) (BIS) as a Data Scientist in the financial domain. Prior, I worked at the startup [liom](https://liom.com/) as a `Machine Learning Research Scientist Intern` in the domain of signal processing-based methods to identify glucose in blood using non-linear models.
+I love learning about machine learning in different disciplines. I am currently working at [Bank for International Settlements](https://www.bis.org/) (BIS) as a Data Scientist in the financial domain. Prior, I worked at the startup [Liom](https://liom.com/) as a `Machine Learning Research Scientist Intern` in the domain of signal processing-based methods to identify glucose in blood using non-linear models.
 
 In my free-time I like to do any `sports`. I am an amateur runner, planning my third marathon in Zurich 2025. I like learning about new things, travelling to other continents, and watch comedy movies.
 
