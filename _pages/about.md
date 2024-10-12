@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Data Scientist @ BIS</a> , M.Sc. in Data Science and AI.
 
 profile:
   align: right
