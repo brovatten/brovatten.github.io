@@ -1,4 +1,4 @@
-I love learning about machine learning in different disciplines. I am currently working at Bank for International Settlements (BIS) as a Data Scientist Contractor in the financial domain. Prior, I worked at the startup [liom](liom.com) as a `Machine Learning Research Scientist Intern` in the domain of spectroscopy-based methods to identify glucose in-vitro. 
+I love learning about machine learning in different disciplines. I am currently working at [Bank for International Settlements](https://www.bis.org/) (BIS) as a Data Scientist Contractor in the financial domain. Prior, I worked at the startup [liom](https://liom.com/) as a `Machine Learning Research Scientist Intern` in the domain of spectroscopy-based methods to identify glucose in-vitro. 
 
 In my free-time I like to do any `sports`. I am an amateur runner, planning my third marathon in Zurich 2025. I like learning about new things, travelling to other continents, and comedy movies.
 
