@@ -24,11 +24,29 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
+      "name": "Software and Machine Learning unit, Liom",
+      "position": "Machine Learning Research Scientist Intern",
+      "url": "https://liom.com",
+      "startDate": "2024-01-13",
+      "endDate": "2024-10-24",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": ["Statistical machine learning", "Data visualization", "Signal processing", "Outlier removal"]
+    },
+    {
+      "name": "Laboratory for Advanced System Software, University of Massachusetts Amherst",
+      "position": "Distributed Computing Research Intern",
+      "url": "https://lass.cs.umass.edu/",
+      "startDate": "2022-06-05",
+      "endDate": "2022-09-15",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": ["Relativity"]
+    },
+    {
+      "name": "Embedded Internet Systems LAB, Luleå University of Technology",
+      "position": "Research Trainee",
+      "url": "https://www.ltu.se/om-universitetet/organisation/institutionen-for-system--och-rymdteknik/eislab",
+      "startDate": "2021-06-05",
+      "endDate": "2021-08-21",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
     }
@@ -61,6 +79,13 @@
       "awarder": "Stiftelsen Chalmers tekniska högskola",
       "url": "https://www.chalmers.se/utbildning/studera-hos-oss/studentliv/stipendier-for-studenter/donationsstipendierna/",
       "summary": "Awarded to students first and second year of their Master's degree based on academic performance."
+    },
+    {
+      "title": "Best Paper runner-up",
+      "date": "2023",
+      "awarder": "14th IEEE IGCC",
+      "url": "https://www.igscc.org/",
+      "summary": "Awarded for my co-authored paper on carbon-footprint optimization for distributed systems."
     }
   ],
   "publications": [
@@ -92,14 +117,14 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "LLM Quantization",
+        "LLM quantization",
         "Multimodal contrastive learning",
         "Deep active learning",
-        "Operating Systems",
-        "Graph Neural Networks",
-        "Retrieval Augmented Generation",
-        "Data Engineer in Python",
-        "Explaining data with Matplotlib"
+        "Operating systems",
+        "Graph neural networks",
+        "Retrieval augmented generation",
+        "Efficient low/mid-size data processing",
+        "Data visualization"
       ]
     }
   ],
